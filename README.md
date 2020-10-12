@@ -21,7 +21,7 @@ customresourcedefinition.apiextensions.k8s.io/orders.acme.cert-manager.io create
 - We'll be using the `cert-manager` namespace:
 
 ```
-kubectl get ns  # if you don't see the "cert-manager" namespace, please create it using $ kubectl create ns cert-manager
+kubectl create ns cert-manager
 ```
 
 - Add the Jetstack Helm repository and update your local Helm chart repo cache:
