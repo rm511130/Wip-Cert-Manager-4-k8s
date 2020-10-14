@@ -1,3 +1,7 @@
+# Before you get started
+
+Note: you may be looking for the private repo `acme*`
+
 # Wip-Cert-Manager-4-k8s
 Cert Manager for K8s
 
